@@ -1,0 +1,25 @@
+.gradient-background {background: #C9A9A6; 
+    /*background: linear-gradient(41deg, rgba(255,127,80,1) 9%, rgba(255,255,255,1) 100%);*/}
+
+.feature{
+    background-color: #dfdfdf;
+}
+
+p.copyright {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+#hero{
+    height: 665px;
+}
+
+#Nav{
+    color: black;
+}
+
+
+  
